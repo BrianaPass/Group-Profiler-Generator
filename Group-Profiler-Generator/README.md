@@ -1,0 +1,2 @@
+# README-Generator
+# The Inquirer module from Node.js was used to develop this application, which generates a team profile based on user input and displays the data on a freshly created html page with a style sheet. This project uses Jest to show the use of OOP and TDD.
